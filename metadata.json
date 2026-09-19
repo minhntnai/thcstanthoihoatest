@@ -1,0 +1,10 @@
+{
+  "name": "Trợ lý số Tổng phụ trách Đội TH - THCS",
+  "description": "Trợ lý số Tổng phụ trách Đội – Quản lý học sinh, thi đua, hoạt động Đội và báo cáo dành cho trường TH - THCS",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
